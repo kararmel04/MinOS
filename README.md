@@ -24,5 +24,7 @@ bash compile.sh
 
 ### Ressources utilisées
 [Wiki OS dev](https://wiki.osdev.org/Expanded_Main_Page)<br>
+
 [Documentation NASM (en anglais)](https://www.nasm.us/docs.php)<br>
+
 [Site officiel de QEMU](https://www.qemu.org/)
