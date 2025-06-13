@@ -4,12 +4,12 @@ Dans ce projet, je me plonge dans le bas-niveau, afin de comprendre les fonction
 
 La version 1 ne contient qu'un bootloader minimaliste écrit en assembleur, qui affiche **"Hello, world!"** à l'écran lorsqu'il est exécuté.
 
-## 📜 Description
+## Description
 
 Un bootloader est un programme chargé par le BIOS au démarrage d'un ordinateur. 
 Ce bootloader est conçu pour être simple et didactique, permettant d'afficher un message avant de rester en boucle infinie.
 
-## 🚀 Installation & Exécution
+## Installation & Exécution
 
 ### Prérequis
 - Assembleur NASM
@@ -20,3 +20,9 @@ Utilise la commande suivante pour assembler le bootloader et lancer qemu :
 
 ```bash
 bash compile.sh
+```
+
+### Ressources utilisées
+[Wiki OS dev](https://wiki.osdev.org/Expanded_Main_Page)
+[Documentation NASM (en anglais)](https://www.nasm.us/docs.php)
+[Site officiel de QEMU](https://www.qemu.org/)
